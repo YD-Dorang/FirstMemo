@@ -1,4 +1,4 @@
-public class two_array_test {
+public class two_array_Test {
     static void main() {
         
         // 1. 2차원 배열
